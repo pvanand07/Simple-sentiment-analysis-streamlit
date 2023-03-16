@@ -1,2 +1,3 @@
 # Simple-sentiment-analysis-streamlit
-Simple sentiment-analysis using transformers pipeline hosted using streamlit and hugging-face
+
+This is a simple sentiment analysis app that uses the Transformers pipeline and Streamlit to analyze the sentiment of text input by a user. The app allows users to enter some text and click a button to perform sentiment analysis. The sentiment analysis pipeline uses a pre-trained model to classify the sentiment of the input text as positive or negative and return a confidence score. The app displays the sentiment and confidence score to the user.
